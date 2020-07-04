@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Yuchen's new page!"
 date:   2020-07-04 05:05:14 +0000
-categories: misc demo
+tags: misc
 ---
 
 {% highlight cpp %}
